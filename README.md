@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Muhammedguven/Muhammedguven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br>
+<details>
+  <summary>Github Public Stats :computer:</summary>
+<a href="https://github.com/Muhammedguven?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammedguven&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" />
+</a>
+<a href="https://github.com/Muhammedguven?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammedguven&show_icons=true&line_height=33&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" alt="Sasha's GitHub Stats" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=Muhammedguven)
+  ----
+</details>
+
