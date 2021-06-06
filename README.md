@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-https://muhammedguven.github.io/Resume/
-<br>
 <details>
   <summary>Github Public Stats :computer:</summary>
 <a href="https://github.com/Muhammedguven?tab=repositories">
